@@ -17,12 +17,15 @@ public class CardDealer
     public static void main(String[] args)
     {
         Card nineClubs = new Card("Clbs", 9);
-        nineClubs.setSuit("diamonds");
+        nineClubs.setSuit("clubs");
         
         Card twoHearts = new Card("Hearts", 2);
         twoHearts.setSuit("hearts");
         
         Card fiveSpades = new Card("Spades", 5);
         fiveSpades.setSuit("spades");
+        
+        Card fourDiamonds = new Card("Diamonds", 4);
+        fourDiamonds.setSuit("diamonds");
     }
 }
