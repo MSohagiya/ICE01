@@ -27,5 +27,8 @@ public class CardDealer
         
         Card fourDiamonds = new Card("Diamonds", 4);
         fourDiamonds.setSuit("diamonds");
+        
+        Card oneSpades = new Card("Spades", 1);
+        oneSpades.setSuit("ACE");
     }
 }
