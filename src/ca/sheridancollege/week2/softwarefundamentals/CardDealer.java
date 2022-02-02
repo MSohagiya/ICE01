@@ -8,6 +8,9 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 2019
+ * @modified by Maharshi Sohagiya
+ * @date February 2,2022
+ * Student ID: 991619583
  */
 public class CardDealer 
 {
